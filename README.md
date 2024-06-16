@@ -1,0 +1,1 @@
+# typyescript-class-1
